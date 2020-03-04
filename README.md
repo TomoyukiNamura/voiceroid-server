@@ -1,2 +1,2 @@
-#  voiceloid-server
+#  voiceroid-server
 
